@@ -1,0 +1,61 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 53 of 60
+53. Question
+You ran the following commands to create two compute instances.
+gcloud compute instances create instance1
+gcloud compute instances create instance2
+Both compute instances were created in europe-west2-a zone but you want to create them in other zones. Your active gcloud configuration is as shown below.
+$ gcloud config list
+[component_manager]
+disable_update_check = True
+[compute]
+gce_metadata_read_timeout_sec = 5
+zone = europe-west2-a
+[core]
+account = gcp-ace-lab-user@gmail.com
+disable_usage_reporting = False
+project = gcp-ace-lab-266520
+[metrics]
+environment = devshell
+You want to modify the gcloud configuration such that you are prompted for a zone when you execute the create instance commands above. What should you do?
+
+  gcloud config unset compute/zone
+  gcloud config set zone ""
+  gcloud config set compute/zone ""
+  gcloud config unset zone
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

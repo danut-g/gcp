@@ -1,0 +1,71 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 4 of 59
+4. Question
+Your engineers have hardcoded the database credentials to be used by application on Kubernetes Engine. The YAML they’re using looks similar to the following:
+apiVersion: “extensions/v1beta1”
+kind: “Deployment”
+metadata:
+name: “products-service”
+namespace: “default”
+labels:
+app: “products-service”
+spec:
+replicas: 3
+selector:
+matchLabels:
+app: “products-service”
+template:
+metadata:
+labels:
+app: “products-service”
+spec:
+containers:
+– name: “products”
+image: “gcr.io/find-seller-app-dev/products:latest”
+env:
+– name: “database_user”
+value: “admin”
+– name: “database_password”
+value: “TheB3stP@ssW0rd”
+What is Google’s recommended best practice for working with sensitive information inside of Kubernetes?
+
+  A. Store the credentials in a ConfigMap.
+  B. Mount the credentials in a volume.
+  C. Use an environment variable.
+  D. Store the credentials in a Secret.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

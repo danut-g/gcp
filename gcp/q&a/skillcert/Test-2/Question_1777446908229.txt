@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 15 of 60
+15. Question
+You have an application that uses Cloud Spanner as a database backend to keep current state information about users. Cloud Bigtable logs all events triggered by users. You export Cloud Spanner data to Cloud Storage during daily backups. One of your analysts asks you to join data from Cloud Spanner and Cloud Bigtable for specific users. You want to complete this ad hoc request as efficiently as possible. What should you do?
+
+  Create a dataflow job that copies data from Cloud Bigtable and Cloud Storage for specific users.
+  Create a Cloud Dataproc cluster that runs a Spark job to extract data from Cloud Bigtable and Cloud Storage for specific users.
+  Create two separate BigQuery external tables on Cloud Storage and Cloud Bigtable. Use the BigQuery console to join these tables through user fields, and apply appropriate filters.
+  Create a dataflow job that copies data from Cloud Bigtable and Cloud Spanner for specific users.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

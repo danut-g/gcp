@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 40 of 57
+40. Question
+Your company stores customer PII data in Cloud Storage buckets. A subset of this data is regularly imported into a BigQuery dataset to carry out analytics. You want to make sure the access to this bucket is strictly controlled. Your analytics team needs read access on the bucket so that they can import data in BigQuery. Your operations team needs read/write access to both the bucket and BigQuery dataset to add Customer PII data of new customers on an ongoing basis. Your Data Vigilance officers need Administrator access to the Storage bucket and BigQuery dataset. You want to follow Google recommended practices. What should you do?
+
+  Create 3 custom IAM roles with appropriate permissions for the access levels needed for Cloud Storage and BigQuery. Add your users to the appropriate roles.
+  At the Project level, add your Data Vigilance officers user accounts to the Owner role, add your operations team user accounts to the Editor role, and add your analytics team user accounts to the Viewer role.
+  At the Organization level, add your Data Vigilance officers user accounts to the Owner role, add your operations team user accounts to the Editor role, and add your analytics team user accounts to the Viewer role.
+  Use the appropriate predefined IAM roles for each of the access levels needed for Cloud Storage and BigQuery. Add your users to those roles for each of the services.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

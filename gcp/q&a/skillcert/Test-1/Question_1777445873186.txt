@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 56 of 59
+56. Question
+You have a large 5-TB AVRO file stored in a Cloud Storage bucket. Your analysts are proficient only in SQL and need access to the data stored in this file. You want to find a cost-effective way to complete their request as soon as possible. What should you do?
+
+  Load data in Cloud Datastore and run a SQL query against it.
+  Create a BigQuery table and load data in BigQuery. Run a SQL query on this table and drop this table after you complete your request.
+  Create external tables in BigQuery that point to Cloud Storage buckets and run a SQL query on these external tables to complete your request.
+  Create a Hadoop cluster and copy the AVRO file to NDFS by compressing it. Load the file in a hive table and provide access to your analysts so that they can run SQL queries.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

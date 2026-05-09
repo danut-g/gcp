@@ -1,0 +1,46 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 9 of 60
+9. Question
+Application running in Google Kubernetes Engine (GKE) with cluster autoscaling enabled.
+Application exposes a TCP endpoint with multiple replicas.
+A Compute Engine instance must connect to this application securely and reliably.
+  1. In GKE, create a service of type LoadBalancer that uses the application’s pods as backend. 2. Set the service’s externalTrafficPolicy to Cluster. 3. Configure the Compute Engine instance to use the address of the load balancer that has been assigned.
+  1. In GKE, create a service of type NodePort that uses the application’s pods as backend. 2. Create a Compute Engine instance called proxy with 2 network interfaces one in VPC. 3. Use iptables on the instance to forward traffic from pt-network to the GKE nodes. 4. Configure the Compute Engine instance to use the address of proxy in pt-network as endpoint.
+  1. In GKE, create a Service of type LoadBalancer that uses the application’s Pods as backend. 2. Add an annotation to this service cloud.google.com/load-balancer-type: Internal 3. Peer the two VPCs together 4. Configure the Compute Engine instance to use the address of the load balancer that has been created.
+  1. In GKE, create a Service of type LoadBalancer that uses the application’s Pods as backend. 2. Add a Cloud Armor Security Policy to the load balancer that whitelists the internal IPs of the MIG’s instances. 3. Configure the Compute Engine instance to use the address of the load balancer that has been created.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

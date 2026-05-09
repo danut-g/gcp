@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 58 of 60
+58. Question
+You want to configure a cost-effective solution for archiving objects in a Cloud Storage bucket. Noncurrent versions should be archived after 30 days. Non-current versions are accessed once a month for reporting. This archived objects are also occasionally updated at month-end. What should you do?
+
+  Add a bucket lifecycle rule that archives noncurrent versions after 30 days to Coldline Storage.
+  Add a bucket lifecycle rule that archives noncurrent versions after 30 days to Nearline Storage.
+  Add a bucket lifecycle rule that archives objects from regional storage after 30 days to Coldline Storage.
+  Add a bucket lifecycle rule that archives objects from regional storage after 30 days to Nearline Storage.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

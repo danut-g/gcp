@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 52 of 59
+52. Question
+A recent software update to a static e-commerce website running on Google Cloud has caused the website to crash for several hours. The CTO decides that all critical changes must now have a back-out/roll-back plan. The website is deployed Cloud Storage and critical changes are frequent. Which action should you take to implement the back-out/roll-back plan?
+
+  A. Create a Nearline copy for the website static data files stored in Google Cloud Storage.
+  B. Enable object versioning on the website's static data files stored in Google Cloud Storage.
+  C. Enable Google Cloud Deployment Manager (CDM) on the project, and define each change with a new CDM template.
+  D. Create a snapshot of each VM prior to an update, and recover the VM from the snapshot in case of a new version failure.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

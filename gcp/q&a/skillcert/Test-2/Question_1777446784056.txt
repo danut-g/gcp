@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 2 of 60
+2. Question
+You want to find a list of regions and the prebuilt images offered by Google Compute Engine. Which commands should you execute to retrieve this information?
+
+  gcloud compute regions list gcloud images list
+  gcloud compute regions list gcloud compute images list
+  gcloud regions list gcloud images list
+  gcloud regions list gcloud compute images list
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

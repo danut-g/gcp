@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 16 of 57
+16. Question
+You want to serve files under the URL https://www.my-new-gcp-ace-website.com/static/ from Cloud Storage. In addition, the URL https://www.my-new-gcp-ace-website.com/app/ should be handled by a Compute Engine managed instance group (MIG). You want to follow Google recommended practices. How should you configure load balancing?
+
+  1. Deploy HAProxy in a second MIG and configure it to route /app/ to the first MIG and /static/ to your Cloud Storage bucket. 2. Create a network Load Balancer in front of the HAProxy MIG 3. Configure www.my-new-gcp-ace-website.com as an A record pointing to the address of the load balancer
+  1. Create a HTTPS Load Balancer in front of the MIG 2. In Cloud DNS in the my-new-gcp-ace-website.com zone, create a TXT record for _app_._routes_.www.my-new-gcp-ace-website.com containing the address of the load balancer. 3. Create another TXT record for _static_._routes_.www.my-new-gcp-ace-website.com containing the URL of your Cloud Storage bucket.
+  1. Configure www.my-new-gcp-ace-website.com as a CNAME pointing to storage.googleapis.com 2. Create a HTTPS Load Balancer in front of the MIG 3. IN the app folder of your Cloud Storage Bucket, add a file called redirect containing the address of the load balancer.
+  1. Create a HTTPS Load Balancer 2. Create a backend service associated with the MIG and route /app/ to the backend service 3. Create a backend bucket associated with your Cloud Storage Bucket, and route /static/ to the backend bucket 4. Configure www.my-new-gcp-ace-website.com as an A record pointing to the address of the load balancer.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

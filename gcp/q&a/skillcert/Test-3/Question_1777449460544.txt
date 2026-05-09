@@ -1,0 +1,50 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 37 of 57
+37. Question
+Your company recently migrated all infrastructure to Google Cloud Platform (GCP) and you want to use Google Cloud Build to build all container images. You want to store the build logs in Google Cloud Storage. You also have a requirement to push the images to Google Container Registry. You wrote a cloud build YAML configuration file with the following contents.
+steps:
+– name: ‘gcr.io/cloud-builders/docker’
+args: [‘build’, ‘-t’, ‘gcr.io/[PROJECT_ID]/[IMAGE_NAME]’, ‘.’]
+images: [‘gcr.io/[PROJECT_ID]/[IMAGE_NAME]’]
+How should you execute Cloud build to satisfy these requirements?
+
+  Execute gcloud builds run --config=[CONFIG_FILE_PATH] --gcs-log-dir=[GCS_LOG_DIR] [SOURCE]
+  Execute gcloud builds submit --config=[CONFIG_FILE_PATH] --gcs-log-dir=[GCS_LOG_DIR] [SOURCE]
+  Execute gcloud builds submit --config=[CONFIG_FILE_PATH] [SOURCE]
+  Execute gcloud builds push --config=[CONFIG_FILE_PATH] [SOURCE]
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

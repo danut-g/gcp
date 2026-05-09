@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 50 of 57
+50. Question
+Your management has asked an external auditor to review all the resources in a specific project. The security team has enabled the Organization Policy called Domain Restricted Sharing on the organization node by specifying only your Cloud Identity domain. You want the auditor to only be able to view, but not modify, the resources in that project. What should you do?
+
+  Ask the auditor for their Google account, and give them the Viewer role on the project.
+  Ask the auditor for their Google account, and give them the Security Reviewer role on the project.
+  Create a temporary account for the auditor in Cloud Identity, and give that account the Viewer role on the project.
+  Create a temporary account for the auditor in Cloud Identity, and give that account the Security Reviewer role on the project.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

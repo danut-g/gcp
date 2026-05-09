@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 7 of 59
+7. Question
+You have a web application deployed as a managed instance group. You noticed some of the compute instances are running low on memory. You suspect this is due to JVM memory leak and you want to restart the compute instances to reclaim the leaked memory. Your web application is currently serving live web traffic. You want to ensure that the available capacity does not go below 80% at any time during the restarts and you want to do this at the earliest. What would you do?
+
+  Stop instances in the managed instance group (MIG) one at a time and rely on autohealing to bring them back up.
+  Perform a rolling-action replace with max-unavailable set to 20%.
+  Perform a rolling-action restart with max-unavailable set to 20%.
+  Perform a rolling-action reboot with max-surge set to 20%.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 6 of 60
+6. Question
+You want to migrate an application from Google App Engine Standard to Google App Engine Flex. Your application is currently serving live traffic and you want to ensure everything is working in Google App Engine Flex before migrating all traffic. You want to minimize effort and ensure the availability of service. What should you do?
+
+  1. Set env: flex in app.yaml 2. gcloud app deploy --version=[NEW_VERSION] 3. Validate [NEW_VERSION] in App Engine Flex 4. gcloud app versions migrate [NEW_VERSION]
+  1. Set env: app-engine-flex in app.yaml 2. gcloud app deploy --no-promote --version=[NEW_VERSION] 3. Validate [NEW_VERSION] in App Engine Flex 4. gcloud app versions start [NEW_VERSION]
+  1. Set env: app-engine-flex in app.yaml 2. gcloud app deploy --version=[NEW_VERSION] 3. Validate [NEW_VERSION] in App Engine Flex 4. gcloud app versions start [NEW_VERSION]
+  1. Set env: flex in app.yaml 2. gcloud app deploy --no-promote --version=[NEW_VERSION] 3. Validate [NEW_VERSION] in App Engine Flex 4. gcloud app versions migrate [NEW_VERSION]
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 31 of 59
+31. Question
+You are setting up a Windows VM on Compute Engine and want to make sure you can log in to the VM via RDP. What should you do?
+
+  After the VM has been created, use your Google Account credentials to log in into the VM.
+  After the VM has been created, use gcloud compute reset-windows-password to retrieve the login credentials for the VM.
+  When creating the VM, add metadata to the instance using 'windows-password' as the key and a password as the value.
+  After the VM has been created, download the JSON private key for the default Compute Engine service account. Use the credentials in the JSON file to log in to the VM.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

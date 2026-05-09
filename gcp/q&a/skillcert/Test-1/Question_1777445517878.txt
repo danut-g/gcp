@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 15 of 59
+15. Question
+You are analyzing Google Cloud Platform service costs from three separate projects. You want to use the information to create service costs estimates grouped by service type, daily and monthly, for the next six months using standard query syntax. What should you do?
+
+  Export your bill to a BigQuery dataset and then write time window based SQL queries for analysis.
+  Export your bill to a Cloud Storage bucket and then import into Cloud Bigtable for analysis.
+  Export your bill to a Cloud Storage bucket and then import into Google Sheets for analysis
+  Export your transactions to a local file and perform analysis with a suitable desktop tool.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

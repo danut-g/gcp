@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 23 of 60
+23. Question
+Your company wants to setup Production and Test environment. They want to use different subnets and the key requirement is that the VMs must be able to communicate with each other using internal IPs no additional routes configured. How can the solution be designed?
+
+  A. Configure a single VPC with 2 subnets having the same CIDR range hosted in the same region
+  B. Configure a single VPC with 2 subnets having the different CIDR range hosted in the different region
+  C. Configure 2 VPCs with 1 subnet each having the same CIDR range hosted in the same region
+  D. Configure 2 VPCs with 1 subnet each having the different CIDR range hosted in the different region
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

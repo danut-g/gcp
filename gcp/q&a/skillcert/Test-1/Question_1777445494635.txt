@@ -1,0 +1,62 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 12 of 59
+12. Question
+In Cloud Shell, your active gcloud configuration is as shown below.
+$ gcloud config list
+[component_manager]
+disable_update_check = True
+[compute]
+gce_metadata_read_timeout_sec = 5
+zone = europe-west2-a
+[core]
+account = gcp-ace-lab-user@gmail.com
+disable_usage_reporting = False
+project = gcp-ace-lab-266520
+[metrics]
+environment = devshell
+You want to create two compute instances – one in europe-west2-a and another in europe-west2-b. What should you do? (Select 2)
+
+  gcloud compute instances create instance1 gcloud compute instances create instance2
+  gcloud compute instances create instance1 gcloud config set compute/zone europe-west2-b gcloud compute instances create instance2
+  gcloud compute instances create instance1 gcloud compute instances create instance2 --zone=europe-west2-b
+  gcloud compute instances create instance1 gcloud config set zone europe-west2-b gcloud compute instances create instance2
+  gcloud compute instances create instance1 gcloud configuration set compute/zone europe-west2-b gcloud compute instances create instance2
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

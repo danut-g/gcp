@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 25 of 60
+25. Question
+Your company is hosting their static website on Cloud Storage. You have implemented a change to add PDF files to the website. However, when the user clicks on the PDF file link it downloads the PDF instead of opening it within the browser. What would you change to fix the issue?
+
+  A. Set content-type as object metadata to application/octet-stream on the files
+  B. Set content-type as object metadata to application/pdf on the files
+  C. Set content-type as object metadata to application/octet-stream on the bucket
+  D. Set content-type as object metadata to application/pdf on the bucket
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

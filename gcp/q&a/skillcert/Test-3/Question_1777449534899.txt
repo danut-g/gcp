@@ -1,0 +1,55 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 46 of 57
+46. Question
+Your customer has implemented a solution that uses Cloud Spanner and notices some read latency-related performance issues on one table. This table is accessed only by their users using a primary key. The table schema is shown below.
+CREATE TABLE Persons {
+person_id INT64 NOT NULL, // sequential number based on number of registrations
+account_creation_date DATE, // system date
+birthdate DATE, // customer birthdate
+firstname STRING (255), // first name
+lastname STRING (255), // last name
+profile_picture BYTES (255) // profile picture
+} PRIMARY KEY (person_id)
+You want to resolve the issue. What should you do?
+
+  Remove the profile_picture field from the table.
+  Add a secondary index on the person_id column.
+  Change the primary key to not have monotonically increasing values.
+  Create a secondary index using the following Data Definition Language (DDL):
+  CREATE INDEX person_id_ix ON Persons ( person_id, firstname, lastname ) STORING ( profile_picture )
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

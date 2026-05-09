@@ -1,0 +1,53 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 6
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 1 of 60
+1. Question
+Your team is working towards using the desired state configuration for your application deployed on the GKE cluster. You have YAML files for the Kubernetes Deployment and Service objects. Your application is designed to have 2 pods, which is defined by the replicas parameter in app-deployment.yaml. Your service uses GKE Load Balancer which is defined in app-service.yaml
+
+You created the Kubernetes resources by running
+
+kubectl apply -f app-deployment.yaml
+
+kubectl apply -f app-service.yaml
+
+Your deployment is now serving live traffic but is suffering from performance issues. You want to increase the number of replicas to 5. What should you do in order to update the replicas in existing Kubernetes deployment objects?
+
+  Disregard the YAML file. Use the kubectl scale command to scale the replicas to 5. kubectl scale --replicas=5 -f app-deployment.yaml
+  Disregard the YAML file. Enable autoscaling on the deployment to trigger on CPU usage and set max pods to 5. kubectl autoscale myapp --max=5 --cpu-percent=80
+  Modify the current configuration of the deployment by using kubectl edit to open the YAML file of the current configuration, modify and save the configuration. kubectl edit deployment/app-deployment -o yaml --save-config
+  Edit the number of replicas in the YAML file and rerun the kubectl apply. kubectl apply -f app-deployment.yaml
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

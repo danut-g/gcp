@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 22 of 60
+22. Question
+Your team needs to set up a MongoDB instance as quickly as possible. You don’t know how to install it and what configuration files are needed. What’s the best way to get it up-and-running quickly?
+
+  A. Use Cloud Memorystore
+  B. Learn and deploy MongoDB to a Compute Engine instance.
+  C. Install with Cloud Launcher Marketplace
+  D. Create a Deployment Manager template and deploy it.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

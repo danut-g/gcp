@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 56 of 60
+56. Question
+You are creating a single preemptible VM instance named “preempt” to be used as scratch space for a single workload. If your VM is preempted, you need to ensure that disk contents can be re-used. Which gcloud command would you use to create this instance?
+
+  A. gcloud compute instances create preempt --preemptible --no-boot-disk-auto-delete
+  B. gcloud compute instances create preempt --preemptible --boot-disk-auto-delete=no
+  C. gcloud compute instances create preempt --preemptible
+  D. gcloud compute instances create preempt --no-auto-delete
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

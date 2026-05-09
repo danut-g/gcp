@@ -1,0 +1,67 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 6
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 38 of 60
+38. Question
+You’ve deployed a microservice called myapp1 to a Google Kubernetes Engine cluster using the YAML file specified below:
+apiVersion: apps/vl
+kind: Deployment
+metadata:
+name: myappl-deployment
+spec:
+selector:
+matchLabels:
+app: myappl
+replicas: 2
+template:
+metadata:
+labels:
+app: myappl
+spec:
+containers:
+name: main-container
+image: gcr.io/my-company-repo/myapp1:1.4
+env:
+name: DS _PASSWORD
+value: “tOugh2guess!”
+ports: – containerPort: 8080
+You need to refactor this configuration so that the database password is not stored in plain text. You want to follow Google-recommended practices. What should you do?
+
+  A. Store the database password inside the Docker image of the container, not in the YAML file.
+  B. Store the database password inside a Secret object. Modify the YAML file to populate the DB_PASSWORD environment variable from the Secret.
+  C. Store the database password inside a ConfigMap object. Modify the YAML file to populate the DB_PASSWORD environment variable from the ConfigMap.
+  D. ?Store the database password in a file inside a Kubernetes persistent volume, and use a persistent volume claim to mount the volume to the container.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

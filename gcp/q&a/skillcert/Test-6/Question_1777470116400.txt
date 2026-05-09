@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 6
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 24 of 60
+24. Question
+You are required to fire a query on large amount of data stored in BigQuery. You know the query is expected to return a large amount of data. How would you estimate the cost for the query?
+
+  A. Using Command line, use the --dry_run option on BigQuery to determine the amount of bytes read, and then use the price calculator to determine the cost.
+  B. Using Command line, use the --dry_run option on BigQuery to determine the amount of bytes returned, and then use the price calculator to determine the cost.
+  C. Using Command line, use the --dry_run option on BigQuery to determine the amount of time taken, and then use the price calculator to determine the cost.
+  D. Using Command line, use the --dry_run option on BigQuery to determine the total amount of table data in bytes, as it would be a full scan, and then use the price calculator to determine the cost.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

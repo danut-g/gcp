@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 30 of 60
+30. Question
+You have two Kubernetes resource configuration files.
+deployments.yaml – creates a deployment
+service.YAML – sets up a LoadBalancer service to expose the pods.
+You don’t have a GKE cluster in the development project and you need to provision one. Which of the commands below would you run in Cloud Shell to create a GKE cluster and deploy the YAML configuration files to create a deployment and service?
+
+  gcloud container clusters create cluster-1 --zone=us-central1-a gcloud container clusters get-credentials cluster-1 --zone=us-central1-a kubectl create -f deployment.yaml kubectl create -f service.yaml
+  gcloud container clusters create cluster-1 --zone=us-central1-a gcloud container clusters get-credentials cluster-1 --zone=us-central1-a kubectl apply -f deployment.yaml kubectl apply -f service.yaml
+  gcloud container clusters create cluster-1 --zone=us-central1-a gcloud container clusters get-credentials cluster-1 --zone=us-central1-a gcloud gke apply -f deployment.yaml gcloud gke apply -f service.yaml
+  kubectl container clusters create cluster-1 --zone=us-central1-a kubectl container clusters get-credentials cluster-1 --zone=us-central1-a kubectl apply -f deployment.yaml kubectl apply -f service.yaml
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

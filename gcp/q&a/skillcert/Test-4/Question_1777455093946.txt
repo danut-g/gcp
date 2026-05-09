@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 50 of 60
+50. Question
+Using the principle of least privilege, your colleague Bob needs to be able to create new instances on Compute Engine in project ‘Project A’. How should you give him access without giving more permissions than is necessary?
+
+  A. Give Bob Compute Engine Instance Admin Role for Project A.
+  B. Give Bob Compute Engine Admin Role for Project A.
+  C. Create a shared VPC that Bob can access Compute resources from.
+  D. Give Bob Project Editor IAM role for Project A.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

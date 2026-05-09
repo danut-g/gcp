@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 6
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 60 of 60
+60. Question
+You need to connect to one of your Compute Engine instances using SSH. You’ve already authenticated gcloud, however, you don’t have an SSH key deployed yet. In the fewest steps possible, what’s the easiest way to connect to the app?
+
+  A. Create a key with the ssh-keygen command. Upload the key to the instance. Run gcloud compute instances list to get the IP address of the instance, then use the ssh command.
+  B. Use the gcloud compute ssh command.
+  C. Create a key with the ssh-keygen command. Then use the gcloud compute ssh command.
+  D. ?Run gcloud compute instances list to get the IP address of the instance, then use the ssh command.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

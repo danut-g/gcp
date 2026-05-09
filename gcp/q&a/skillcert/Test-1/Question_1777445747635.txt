@@ -1,0 +1,49 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+GCP Associate Cloud Engineer Full Practice Tests
+Total Questions: 720 – 13 Mock Exams & 1 Master Cheat Sheet 
+
+Practice Set 1
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 42 of 59
+42. Question
+You defined an instance template for a Python web application. When you deploy this application in Google Compute Engine, you want to ensure the service scales up and scales down automatically based on the number of HTTP requests. What should you do?
+
+  1. Create the necessary number of instances based on the instance template to handle peak user traffic. 2. Group the instances together in an unmanaged instance group. 3. Configure the instance group as the Backend Service of an External HTTP(S) load balancer.
+  1. Create an instance from the instance template. 2. Create an image from the instance's disk and export it to Cloud Storage. 3. Create an External HTTP(s) load balancer and add the Cloud Storage bucket as its backend service.
+  1. Create an unmanaged instance group from the instance template. 2. Configure autoscaling on the unmanaged instance group with a scaling policy based on HTTP traffic. 3. Configure the unmanaged instance group as the backend service of an Internal HTTP(S) load balancer.
+  1. Deploy your Python web application instance template to Google Cloud App Engine. 2. Configure autoscaling on the managed instance group with a scaling policy based on HTTP traffic.
+  1. Create a managed instance group from the instance template. 2. Configure autoscaling on the managed instance group with a scaling policy based on HTTP traffic. 3. Configure the instance group as the backend service of an External HTTP(S) load balancer.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

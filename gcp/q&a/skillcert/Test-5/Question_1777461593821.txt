@@ -1,0 +1,48 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 7 of 59
+7. Question
+You’ve set up an instance inside your new network and subnet. You create firewall rules to target all instances in your network with the following firewall rules.
+NAME:open-ssh | NETWORK:devnet | DIRECTION:INGRESS | PRIORITY:1000 | ALLOW:tcp:22
+NAME:deny-all | NETWORK:devnet | DIRECTION:INGRESS | PRIORITY:5000 | DENY:tcp:0-65535,udp:0-6553
+If you try to SSH to the instance, what would be the result?
+
+  A. SSH would be denied and would need gcloud firewall refreshcommand for the allow rule to take effect.
+  B. SSH would be allowed as the allow rule overrides the deny
+  C. SSH would be denied as the deny rule overrides the allow
+  D. SSH would be denied and would need instance reboot for the allow rule to take effect
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 1 of 59
+1. Question
+You need to have a backup/rollback plan in place for your application that is distributed across a large managed instance group. What is the preferred method for doing so?
+
+  A. Use the Rolling Update feature to deploy/roll back versions with different managed instance group templates.
+  B. Use the managed instance group snapshot function that is included in Compute Engine.
+  C. Have each instance write critical application data to a Cloud Storage bucket.
+  D. Schedule a cron job to take snapshots of each instance in the group.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

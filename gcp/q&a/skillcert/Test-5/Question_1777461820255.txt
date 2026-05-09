@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 38 of 59
+38. Question
+Your security team has asked you to present them some numbers based on the logs that are exported to BigQuery. Due to the team structure, your manager has asked you to determine how much the query will cost. What’s the best way to determine the cost?
+
+  A. It's not possible to estimate the cost of a query.
+  B. Create the query and execute the query in cost estimation mode
+  C. Create the query and use the --dry_run option to determine the amount of data read, and then use the price calculator to determine the cost.
+  D. Use the BigQuery index viewer to determine how many records you'll be reading.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

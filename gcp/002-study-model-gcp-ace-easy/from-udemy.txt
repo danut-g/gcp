@@ -1,0 +1,227 @@
+What Is The Goal Of This Course?
+[Google Cloud] Associate Cloud Engineer Exam Details
+[Roadmap to Success] Get the Associate Cloud Engineer Certification
+[Fast Learning] Download The Most Important Points In PDF Slides
+What is Cloud Computing & Why Google Cloud Platform (GCP)?
+The Big Picture: GCP's Global Infrastructure (Regions, Zones, Edge Locations)
+Your Experience With This Course
+[Demo] A Guided Tour of the Google Cloud Console
+[Demo] GCP's Footprint: Checking Service Availability by Region
+[Demo] Your Three Ways to Interact with GCP: Console, Cloud Shell & gcloud SDK
+Practical Scenario: Designing for Compliance and Availability
+[Section Recap] Welcome to Your Google Cloud Journey
+[Quiz] Welcome to Your Google Cloud Journey
+The GCP Resource Hierarchy: Organizing Your Digital Assets
+Hands-On: Creating and Managing Projects
+Controlling Your Environment with Organization Policies
+Hands-On: Applying Organization Policies to Projects
+Hands-On: Activating the Tools: Enabling APIs for Your Projects
+Hands-On: Creating Your First User and Group in Cloud Identity
+Hands-On: Day-to-Day Management of Users and Groups
+Hands-On: Discovering Resources with Cloud Asset Inventory & Gemini
+Billing 101: How GCP Billing Works
+Hands-On: Verifying and Managing Project Billing
+Never Get a Surprise Bill! Setting Up Budgets and Alerts
+Hands-On: Creating Your First Billing Budget
+For the Accountants: Setting Up Billing Exports to BigQuery
+Understanding Resource Quotas and How to Request Increases
+Practical Scenario: Hierarchy & Guardrails
+[Section Recap] The Bedrock: GCP Resource Hierarchy & Billing
+[Quiz] The Bedrock: GCP Resource Hierarchy & Billing
+IAM Explained: Principals, Roles, and Policies
+IAM Role Types: Basic, Predefined, and Custom Roles
+Hands-On: Granting and Revoking IAM Roles in the Console
+Hands-On: Creating and Using a Custom IAM Role
+The Principle of Least Privilege: A Core Security Concept
+Your Applications' Identity Understanding Service Accounts
+Hands-On: Creating and Assigning Service Accounts
+Securing Service Accounts: Managing Keys and Permissions
+Advanced IAM: Service Account Impersonation Explained
+Hands-On: Configuring Service Account Impersonation
+Best Practices for Managing Service Accounts Securely
+Practical Scenario: Least Privilege & Role Types
+[Section Recap] Secure Your Cloud with Identity and Access Management (IAM)
+[Quiz] Secure Your Cloud with Identity and Access Management (IAM)
+What is Compute Engine? Your First Virtual Machine (VM)
+Hands-On: Launching Your First Linux VM in GCP
+Hands-On: Launching a Windows Server VM in GCP
+Hands-On: Securely Connecting to Your VMs (SSH & RDP)
+Choosing the Right Machine Type for Your Workload
+Cost-Saving Strategy: Using Spot VMs
+Hands-On: Launching and Testing a Spot VM
+A Deeper Look at VM Storage: Persistent Disks & Hyperdisk
+Hands-On: Adding and Resizing a Persistent Disk
+Protecting Your Data: VM Snapshots and Images
+Hands-On: Creating a Snapshot and Restoring a VM
+Automate Your Backups: Scheduling Persistent Disk Snapshots
+Automating VM Management with VM Manager
+Centralized Access Control with OS Login
+Practical Scenario: Cost Optimization & Workload Types
+[Section Recap] Compute Engine: Your Virtual Machines in the Cloud
+[Quiz] Compute Engine: Your Virtual Machines in the Cloud
+Don't Repeat Yourself: Using Instance Templates
+What are Managed Instance Groups (MIGs)?
+Hands-On: Creating an Autoscaled Managed Instance Group
+Understanding Autoscaling Policies: Scaling on Metrics
+High Availability with MIGs: Autohealing and Regional Deployments
+Hands-On: Performing a Rolling Update on a MIG
+A Practical Use Case: Building a Scalable Web Application
+Practical Scenario: Infrastructure as a Service
+[Section Recap] Scaling and Automating Compute Engine
+[Quiz] Scaling and Automating Compute Engine
+Containers vs. VMs: A Simple Analogy
+The Core Concepts of Kubernetes: Pods, Services, Deployments
+Introduction to Google Kubernetes Engine (GKE): Managed Kubernetes on GCP
+GKE Modes: Autopilot vs. Standard Clusters
+Hands-On: Deploying Your First GKE Autopilot Cluster
+Hands-On: Deploying a Regional GKE Standard Cluster
+Security Matters: Understanding Private GKE Clusters
+The Kubernetes Command Line: Using kubectl
+Getting Your App Ready Containerizing an Application with Docker
+Storing Your Containers: Introduction to Artifact Registry
+Hands-On: Pushing a Container Image to Artifact Registry
+Hands-On: Deploying Your First Application to GKE
+Hands-On: Exposing Your Application with Kubernetes Services
+Practical Scenario: Security & Private Clusters
+[Section Recap] Google Kubernetes Engine (GKE): The Power of Containers
+[Quiz] Google Kubernetes Engine (GKE): The Power of Containers
+Hands On: Viewing Your Cluster: Exploring Nodes, Pods, and Services
+Hands On: Viewing Your Cluster: Exploring Nodes, Pods, and Services - Part 3
+Understanding GKE Node Pools
+Hands-On: Adding, Editing, and Removing a Node Pool
+Scaling Your Workloads: Horizontal (HPA) and Vertical (VPA) Pod Autoscaling - 1
+Scaling Your Workloads: Horizontal (HPA) and Vertical (VPA) Pod Autoscaling - 2
+Scaling Your Infrastructure: Cluster and Node Pool Autoscaling
+Hands-On: Configuring HPA for a Deployment
+Managing Stateful Applications with Kubernetes StatefulSets
+Securely Accessing GCP Services from GKE Pods
+Practical Scenario: GKE - Pods & Nodes
+[Section Recap] Managing and Scaling GKE Clusters
+[Quiz] Managing and Scaling GKE Clusters
+What is Cloud Run? From Container to Scalable Service in Seconds
+Hands-On: Deploying a Container to Cloud Run
+Managing Traffic: Revisions and Traffic Splitting in Cloud Run - 1
+[Hands On] Managing Traffic: Revisions and Traffic Splitting in Cloud Run - 2
+Configuring Autoscaling for Cloud Run Applications
+What are Cloud Run functions? Event-Driven Compute
+Cloud Run functions Use Cases: Responding to Events
+[Hands On] Creating a Cloud Run function Triggered by a Cloud Storage Upload - 1
+[Hands On] Creating a Cloud Run function Triggered by a Cloud Storage Upload - 2
+[Hands On] Creating a Cloud Run function Triggered by a Cloud Storage Upload - 3
+Connecting Events Across GCP: An Introduction to Eventarc
+Compute Face-Off: VMs vs. GKE vs. Cloud Run (Services vs. Functions)
+Practical Scenario: Serverless Computing with Cloud Run
+[Section Recap] Serverless Computing with Cloud Run (Services & Functions)
+[Quiz] Serverless Computing with Cloud Run (Services & Functions)
+What is Object Storage? A Storage Shelf Analogy
+Hands-On: Creating Buckets and Uploading Objects
+Hands-On: Managing Objects with gsutil and gcloud storage CLI
+Cloud Storage Classes: Finding the Right Price and Performance
+Securing Your Buckets: Permissions and Signed URLs
+Object Lifecycle Management - Automating Data Transitions
+Hands-On: Configuring Lifecycle Policies
+Object Versioning and Retention Policies
+Loading Data at Scale - Storage Transfer Service
+Estimating Cloud Storage Costs with the Pricing Calculator
+Practical Scenario: The "Waterfall" Lifecycle Strategy
+[Section Recap] Cloud Storage: Your Infinitely Scalable Object Store
+[Quiz] Cloud Storage: Your Infinitely Scalable Object Store
+The GCP Database Landscape: Relational vs. NoSQL
+Cloud SQL: Your Managed MySQL, PostgreSQL, and SQL Server
+Hands-On: Creating a Cloud SQL Instance
+Hands-On: Creating a Cloud SQL Instance - Part 3
+Hands-On: Deleting a Cloud SQL Instance
+High Availability and Read Replicas in Cloud SQL
+Backup, Restore, and Multi-Region Redundancy in Cloud SQL
+Spanner: The Globally Consistent, Infinitely Scalable Relational Database
+Firestore: A Flexible, Scalable NoSQL Document Database
+Bigtable: The Petabyte-Scale NoSQL Database for Analytics
+AlloyDB: A High-Performance, PostgreSQL-Compatible Database
+In-Memory Speed: An Introduction to Memorystore
+Hands-On: Executing Basic Queries Against a Cloud SQL Database
+Backup and Restore Operations Across GCP Databases
+Centralized View: Using the Database Center
+Estimating Database Costs - Critical Cost Factors
+Practical Scenario: Global Scale & Consistency
+[Section Recap] Managed Databases in GCP
+[Quiz] Managed Databases in GCP
+BigQuery: GCP's Serverless Data Warehouse
+Hands-On: Loading Data into BigQuery
+Reviewing Job Status and Query Performance in BigQuery
+Pub/Sub: The Global Messaging Service for Event-Driven Systems
+Hands-On: Pub/Sub with Cloud Run Functions and Eventarc
+Dataflow: Stream and Batch Data Processing Made Easy
+Reviewing Dataflow Job Status and Troubleshooting
+Managed Service for Apache Kafka: Enterprise Event Streaming
+Practical Scenario: The Processing Engine Choice
+[Section Recap] Big Data & Analytics Platforms
+[Quiz] Big Data & Analytics Platforms
+Understanding File Storage vs. Object Storage: Use Cases
+Filestore: Managed NFS for VM and GKE Workloads
+Hands-On: Creating a Filestore Instance and Mounting It
+[ALERT] Delete the Filestore Instance
+Enterprise NAS in the Cloud: An Overview of Google Cloud NetApp Volumes
+Choosing Between Cloud Storage, Filestore, and NetApp Volumes
+Practical Scenario: The Windows Migration Challenge
+[Section Recap] Managed File Storage
+[Quiz] Managed File Storage
+What is a VPC? Your Slice of the Google Network
+Understanding VPCs, Subnets, and IP Address Ranges
+Hands-On: Creating a Custom Mode VPC with Subnets
+Expanding Your Network: Adding Subnets and Expanding IP Ranges
+Hands-On: Expanding a Subnet's IP Range
+Controlling Traffic with Cloud Next Generation Firewall (Cloud NGFW)
+Hands-On: Creating Ingress and Egress Firewall Rules
+Advanced Firewalling with Tags and Service Accounts
+IP Addresses in GCP: Internal, External, and Static IPs
+Directing Your Traffic: Creating Custom Static Routes
+Practical Scenario: The Identity-Based Defense
+[Section Recap] Virtual Private Cloud (VPC) Networking Fundamentals
+[Quiz] Virtual Private Cloud (VPC) Networking Fundamentals
+Connecting Two VPCs with VPC Network Peering
+Centralizing Your Network with Shared VPC
+Connecting to On-Premises: Cloud VPN Explained
+Private Access to Google Services: Private Google Access
+Enabling Outbound Connections for Private VMs with Cloud NAT
+Managing Domain Names with Cloud DNS
+Practical Scenario: Centralized Network Management
+[Section Recap] Connecting Your Networks
+[Quiz] Connecting Your Networks
+Why Do We Need Load Balancing?
+The GCP Load Balancer Family: A High-Level Overview
+Global vs. Regional Load Balancing
+Hands-On: Setting Up a Global External HTTPS Load Balancer
+Understanding Network Service Tiers: Premium vs. Standard
+Practical Scenario: Going Global
+[Section Recap] Load Balancing and Network Tiers
+[Quiz] Load Balancing and Network Tiers
+What is Infrastructure as Code (IaC)?
+IaC Tooling in GCP: Terraform, Config Connector, and Fabric FAST
+Hands-On: Deploying VM with Terraform
+Terraform State & Updates
+Practical Scenario: Scaling Team Collaboration
+[Section Recap] Section 16: Infrastructure as Code (IaC) with Terraform
+[Quiz] Section 16: Infrastructure as Code (IaC) with Terraform
+The Google Cloud Observability Suite
+Cloud Monitoring 101: Metrics, Dashboards, and Uptime Checks
+Hands-On: Exploring Metrics for a Compute Engine VM
+Creating Alerts: Getting Notified When Things Go Wrong
+Hands-On: Creating a CPU Utilization Alert
+Going Deeper with User-defined metrics
+Your Personal Health Advisor: The Service Health Dashboard
+Let AI Help: Using Gemini Cloud Assist for Monitoring
+Practical Scenario: The "Invisible" Outage
+[Section Recap] Monitoring with Cloud Monitoring
+[Quiz] Monitoring with Cloud Monitoring
+Introduction to Cloud Logging: The Central Log Hub
+Hands-On: Viewing and Filtering Logs in the Logs Explorer
+Understanding Log Sinks: Exporting Logs for Analysis
+Hands-On: Creating a Log Sink to a Cloud Storage Bucket
+Configuring Log Buckets and Log Analytics
+Understanding and Configuring Audit Logs
+The Ops Agent: Better Metrics and Logs from Your VMs
+Diagnosing Application & Database Issues -Trace, Profiler, Query Insights & More
+Proactive Optimization with Active Assist
+Practical Scenario: The Blind Spot
+[Section Recap] Logging and Diagnostics
+[Quiz] Logging and Diagnostics

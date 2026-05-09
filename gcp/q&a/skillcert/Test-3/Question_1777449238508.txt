@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 18 of 57
+18. Question
+You want to use Google Cloud Storage to host a static website on http://www.example.com for your staff. You created a bucket example-static-website and uploaded index.html and css files to it. You turned on static website hosting on the bucket and set up a CNAME record on http://www.example.com to point to c.storage.googleapis.com. You access the static website by navigating to http://www.example.com in the browser but your index page is not displayed. What should you do?
+
+  In example.com zone, delete the existing CNAME record and set up an A record instead to point to c.storage.googleapis.com.
+  In example.com zone, modify the CNAME record to c.storage.googleapis.com/example-static-website.
+  Reload the Cloud Storage static website server to load the objects.
+  Delete the existing bucket, create a new bucket with the name www.example.com and upload the html/css files.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

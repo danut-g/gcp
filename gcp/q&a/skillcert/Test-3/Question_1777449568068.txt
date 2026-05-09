@@ -1,0 +1,68 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 51 of 57
+51. Question
+Your operations team has configured a lifecycle management rule on a bucket. The bucket is multi-regional and has versioning enabled. Which of the following statement accurately reflects the following lifecycle config?
+{
+“rule”:[
+{
+“action”:{
+“type”:”Delete”
+},
+“condition”:{
+“age”:60,
+“isLive”:false
+}
+},
+{
+“action”:{
+“type”:”SetStorageClass”,
+“storageClass”:”COLDLINE”
+},
+“condition”:{
+“age”:366,
+“matchesStorageClass”:”MULTI_REGIONAL”
+}
+}
+]
+}
+
+  Move objects to Coldline Storage after 366 days if the storage class in Multi-regional First rule has no effect on the bucket.
+  Archive objects older than 60 days and move objects to Coldline Storage after 366 days if the storage class in Multi-regional.
+  Delete objects older than 60 days and move objects to Coldline Storage after 366 days if the storage class in Multi-regional.
+  Delete archived objects older than 60 days and move objects to Coldline Storage after 366 days if the storage class is Multi-regional.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

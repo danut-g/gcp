@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 54 of 60
+54. Question
+Your company has a set of compute engine instances that would be hosting production-based applications. These applications would be running 24×7 throughout the year. You need to implement the cost-effective, scalable and high availability solution even if a zone fails. How would you design the solution?
+
+  A. Use Managed instance groups with preemptible instances across multiple zones
+  B. Use Managed instance groups across multiple zones
+  C. Use managed instance groups with instances in a single zone
+  D. Use Unmanaged instance groups across multiple zones
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 19 of 57
+19. Question
+You want to verify the IAM users and roles assigned within a GCP project named my-project. What should you do?
+
+  Run gcloud iam service-accounts list. Review the output section.
+  Navigate to the project and then to the IAM section in the GCP Console. Review the members and roles.
+  Navigate to the project and then to the Roles section in the GCP Console. Review the roles and status.
+  Run gcloud iam roles list. Review the output section.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

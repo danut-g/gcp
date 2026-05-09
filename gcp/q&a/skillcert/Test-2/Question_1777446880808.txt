@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 11 of 60
+11. Question
+You have an application that looks for its licensing server on the IP 10.0.3.21. You need to deploy the licensing server on the Compute Engine. You do not want to change the configuration of the application and want the application to be able to reach the licensing server. What should you do?
+
+  Use the IP 10.0.3.21 as a custom ephemeral IP address and assign it to the licensing server.
+  Start the licensing server with an automatic ephemeral IP address, and then promote it to a static internal IP address.
+  Reserve the IP 10.0.3.21 as a static public IP address using gcloud and assign it to the licensing server.
+  Reserve the IP 10.0.3.21 as a static internal IP address using gcloud and assign it to the licensing server.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

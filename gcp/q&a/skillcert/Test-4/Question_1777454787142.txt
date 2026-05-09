@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 15 of 60
+15. Question
+You have been tasked to grant access to sensitive files to external auditors for a limited time period of 4 hours only. The files should not be strictly available after 4 hours. Adhering to Google best practices, how would you efficiently share the file?
+
+  A. Host a website on Compute Engine instance and expose the files using Public DNS and share the URL with the auditors. Bring down the instance after 4 hours.
+  B. Host a website on App Engine instance and expose the files using Public DNS and share the URL with the auditors. Bring down the instance after 4 hours.
+  C. Store the file in Cloud Storage. Generate a signed URL with 4 hours expiry and share it with the auditors.
+  D. Store the file in Cloud Storage. Grant the allUsers access to the file share it with the auditors. Remove allUsers access after 4 hours.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

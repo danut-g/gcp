@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 4 of 60
+4. Question
+You have an application deployed in a GKE Cluster as a Kubernetes workload with DaemonSets. Your application has become very popular and is now struggling to cope with increased traffic. You want to improve scalability and availability.
+
+  Perform a rolling update to modify machine type from n1-standard-2 to n1-standard-4.
+  Enable autoscaling on Kubernetes Engine.
+  Enable Horizontal Pod Autoscaling for the Kubernetes deployment.
+  Create another identical Kubernetes workload and split traffic between the two workloads.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

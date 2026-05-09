@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 57 of 60
+57. Question
+You want to configure 10 Compute Engine instances for availability when maintenance occurs. Your requirements state that these instances should attempt to automatically restart if they crash. Also, the instances should be highly available including during system maintenance. What should you do?
+
+  Create an instance group for the instance. Verify that the Advanced creation options setting for do not retry machine creation is set to off.
+  Create an instance group for the instances. Set the Autohealing health check to healthy (HTTP).
+  Create an instance template for the instances. Set Automatic Restart to off. Set On-host maintenance to Terminate VM instances. Add the instance template to an instance group.
+  Create an instance template for the instances. Set the Automatic Restart to on. Set the On-host maintenance to Migrate VM instance. Add the instance template to an instance group.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

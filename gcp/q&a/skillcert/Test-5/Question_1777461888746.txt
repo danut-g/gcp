@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 49 of 59
+49. Question
+Your finance team and engineering team want to determine spending for each service by day and month across all projects in a billing account. What is the easiest and most flexible way to aggregate and analyze the data?
+
+  A. Export the data for the billing account(s) involved to a JSON File; use a Cloud Function to listen for a new file in the Storage bucket; code the function to analyze the service data for the desired projects, by day and month.
+  B. Export the data for the billing account(s) involved to BigQuery; then use BigQuery to analyze the service data for the desired projects, by day and month.
+  C. Export the data for the billing account(s) to File, import the files into a SQL database; and then use BigQuery to analyze the service data for the desired projects, by day and month.
+  D. Use the built-in reports, which already show this data.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

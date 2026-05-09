@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>$title$</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10.5pt; line-height: 1.65; color: #1a1a2e; background: #fff;
+  }
+  .cover {
+    background: linear-gradient(135deg, #1565C0 0%, #0D47A1 50%, #01579B 100%);
+    color: #fff; padding: 48px 56px 40px;
+  }
+  .cover .badge {
+    display: inline-block; background: rgba(255,255,255,0.18);
+    border: 1px solid rgba(255,255,255,0.35); border-radius: 20px;
+    padding: 4px 14px; font-size: 8.5pt; font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 16px;
+  }
+  .cover h1 { font-size: 22pt; font-weight: 700; line-height: 1.2; margin-bottom: 10px; }
+  .cover .subtitle { font-size: 10.5pt; opacity: 0.82; font-weight: 300; }
+  .cover .meta { margin-top: 28px; font-size: 8.5pt; opacity: 0.7; display: flex; gap: 24px; }
+  .content { padding: 40px 56px 56px; }
+  .exam-notice {
+    background: #E3F2FD; border-left: 4px solid #1565C0; border-radius: 0 6px 6px 0;
+    padding: 14px 18px; margin-bottom: 32px; font-size: 9.5pt; color: #0D47A1;
+  }
+  .content > h1:first-child { display: none; }
+  h2 {
+    font-size: 14pt; font-weight: 700; color: #0D47A1; margin-top: 36px;
+    margin-bottom: 14px; padding-bottom: 7px; border-bottom: 2px solid #E3F2FD;
+    page-break-after: avoid;
+  }
+  h3 { font-size: 11pt; font-weight: 600; color: #1565C0; margin-top: 22px; margin-bottom: 9px; page-break-after: avoid; }
+  h4 { font-size: 10pt; font-weight: 600; color: #1a1a2e; margin-top: 16px; margin-bottom: 7px; page-break-after: avoid; }
+  p { margin-bottom: 10px; color: #2c2c3e; }
+  ul, ol { margin: 8px 0 12px 22px; color: #2c2c3e; }
+  li { margin-bottom: 4px; }
+  table { width: 100%; border-collapse: collapse; margin: 14px 0 20px; font-size: 9.5pt; page-break-inside: avoid; }
+  thead tr { background: #1565C0; color: #fff; }
+  thead th { padding: 9px 13px; text-align: left; font-weight: 600; font-size: 9pt; }
+  tbody tr { border-bottom: 1px solid #E8EAF6; }
+  tbody tr:nth-child(even) { background: #F5F7FF; }
+  td { padding: 8px 13px; vertical-align: top; color: #2c2c3e; }
+  td code, th code {
+    background: rgba(21,101,192,0.12); color: #0D47A1;
+    padding: 1px 5px; border-radius: 3px; font-size: 8.5pt;
+    font-family: 'SF Mono','Consolas','Courier New',monospace;
+  }
+  pre {
+    background: #0F1724; color: #CDD9E5; border-radius: 8px;
+    padding: 16px 20px; margin: 12px 0 18px; font-size: 8.5pt;
+    line-height: 1.6; page-break-inside: avoid; white-space: pre; overflow: hidden;
+  }
+  pre code {
+    font-family: 'SF Mono','Cascadia Code','Consolas','Courier New',monospace;
+    background: none; color: inherit; padding: 0; border-radius: 0; font-size: inherit;
+  }
+  code {
+    font-family: 'SF Mono','Cascadia Code','Consolas','Courier New',monospace;
+    background: #EEF2FF; color: #1565C0; padding: 1px 5px; border-radius: 4px; font-size: 8.5pt;
+  }
+  hr { border: none; border-top: 1px solid #E8EAF6; margin: 28px 0; }
+  .footer {
+    margin-top: 40px; padding-top: 14px; border-top: 1px solid #E8EAF6;
+    font-size: 8pt; color: #90A4AE; display: flex; justify-content: space-between;
+  }
+  @media print { pre, table { page-break-inside: avoid; } h2, h3 { page-break-after: avoid; } }
+</style>
+</head>
+<body>
+<div class="cover">
+  <div class="badge">Google Cloud Professional Cloud Architect</div>
+  <h1>$title$</h1>
+  <div class="subtitle">$subtitle$</div>
+  <div class="meta">
+    <span>Study Notes</span>
+    <span>$section$</span>
+    <span>April 2026</span>
+  </div>
+</div>
+<div class="content">
+$if(examnotice)$
+<div class="exam-notice">$examnotice$</div>
+$endif$
+$body$
+<div class="footer">
+  <span>$title$</span>
+  <span>GCP Study Notes</span>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 2 of 60
+2. Question
+You want to find out who in your organization has Owner access to a project called “my-project”. What should you do?
+
+  A. In the Google Cloud Platform Console, go to the IAM page for your organization and apply the filter Role:Owner.
+  B. In the Google Cloud Platform Console, go to the IAM page for your project and apply the filter Role:Owner.
+  C. Use gcloud iam list-grantable-role --project my-project from your Terminal.
+  D. Use gcloud iam list-grantable-role from Cloud Shell on the project page.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

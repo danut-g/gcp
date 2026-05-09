@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 11 of 60
+11. Question
+Your data team is working on some new machine learning models. They’re generating several files per day that they want to store in a regional bucket. They mostly focus on the files from the last week. However, they want to keep all the files just to be safe and if needed, would be referred once in a month. With the fewest steps possible, what’s the best way to lower the storage costs?
+
+  A. Create a Cloud Function triggered when objects are added to a bucket. Look at the date on all the files and move it to Nearline storage if it's older than a week.
+  B. Create a Cloud Function triggered when objects are added to a bucket. Look at the date on all the files and move it to Coldline storage if it's older than a week.
+  C. Create a lifecycle policy to switch the objects older than a week to Coldline storage.
+  D. Create a lifecycle policy to switch the objects older than a week to Nearline storage.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,46 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 2 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 7 of 60
+7. Question
+You have an application running in App Engine standard environment. You want to add a custom C# library to enhance the functionality of this application. However, C# isn’t supported by App Engine standard. You want to maintain the serverless aspect of your application. What should you do? Choose 2 answers.
+
+  Containerize your new application and deploy it to a Cloud Run on GKE environment.
+  Containerize your new application and deploy it to a Cloud Run environment.
+  Containerize your new application and deploy it to a App Engine flexible environment.
+  Containerize your new application and deploy it to a Google Kubernetes Engine environment.
+  Split your application into different functions. Deploy your application as separate cloud functions in Google Cloud Functions (GCP) environment.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

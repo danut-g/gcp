@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 3 
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Answered  Review
+
+Question 47 of 57
+47. Question
+Your development team needs a new Jenkins server for their project. You need to deploy the server using the fewest steps possible. What should you do?
+
+  Create a new Compute Engine instance and install Jenkins through the command-line interface.
+  Download and deploy the Jenkins Java WAR to App Engine Standard.
+  Use GCP Marketplace to launch the Jenkins solution.
+  Create a Kubernetes cluster on Compute Engine and create a deployment with the Jenkins Docker image.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

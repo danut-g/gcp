@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 4
+
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Answered  Review
+
+Question 45 of 60
+45. Question
+Your company has appointed external auditors for auditing the security of your setup. They want to check all the users and roles configured. What would be the best way to check the users and roles?
+
+  A. Ask auditors to check using gcloud iam roles list command
+  B. Ask auditors to check using gclould iam service-accounts listcommand
+  C. Ask Auditors to navigate to the IAM page and check member and roles section
+  D. Ask Auditors to navigate to the IAM page section and check roles and status section
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 44 of 59
+44. Question
+Your data team is working on some new machine learning models. They are generating several output files per day that they want to store in a regional bucket. They focus on the output files from the last month. The output files older than a month needs to be cleaned up. With the fewest steps possible, what’s the best way to implement the solution?
+
+  A. Create a lifecycle policy to switch the objects older than a month to Coldline storage.
+  B. Create a lifecycle policy to delete the objects older than a month.
+  C. Create a Cloud Function triggered when objects are added to a bucket. Look at the date on all the files and delete it, if it's older than a month.
+  D. Create a Cloud Function triggered when objects are added to a bucket. Look at the date on all the files and move it to Coldline storage if it's older than a month.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

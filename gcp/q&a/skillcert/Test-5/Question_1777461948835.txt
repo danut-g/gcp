@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 59 of 59
+59. Question
+You’ve been asked to add a new IAM member and grant them access to run some queries on BigQuery. Considering Google recommended best practices and the principle of least privilege, how would you assign access?
+
+  A. Create a custom role with roles/bigquery.dataViewer and roles/bigquery.jobUser roles; assign custom role to the users
+  B. Create a custom role with roles/bigquery.dataViewer and roles/bigquery.jobUser roles; assign custom role to the group; add users to groups
+  C. Assign roles/bigquery.dataViewer and roles/bigquery.jobUser roles to the users
+  D. Assign roles/bigquery.dataViewer and roles/bigquery.jobUser roles to a group; add users to groups
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

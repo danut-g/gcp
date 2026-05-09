@@ -1,0 +1,45 @@
+Skip to content
+
+Products search 
+All Courses
+Contact Us
+MY ACCOUNT
+/ Google Cloud / By SkillCertPro
+Practice Set 5
+
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+ Answered  Review
+
+Question 50 of 59
+50. Question
+Your company needs to create a new Kubernetes Cluster on Google Cloud Platform. They want the nodes to be configured for resiliency and high availability with no manual intervention. How should the Kubernetes cluster be configured?
+
+  A. Enable auto-healing for the managed instance groups
+  B. Enable auto-upgrades for the nodes
+  C. Enable auto-repairing for the nodes
+  D. Enable auto-healing for the nodes
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+Skillcertpro
+
+Instagram
+Twitter
+Linkedin-in
+Facebook-f
+Quick Links
+ABOUT US
+FAQ
+BROWSE ALL PRACTICE TESTS
+CONTACT FORM
+Important Links
+REFUND POLICY
+REFUND REQUEST
+TERMS & CONDITIONS
+PRIVACY POLICY
+
+Privacy Policy
+
+

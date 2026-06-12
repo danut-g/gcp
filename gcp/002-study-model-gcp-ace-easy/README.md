@@ -48,6 +48,8 @@ Each lesson follows the same shape so you always know where to look:
 ### Top-level practice
 - [Exam strategy and gcloud cheat-sheet](exam-strategy.md)
 - [50-question mock exam](mock-exam.md)
+- [Mock exam 2 — 50 fresh questions](mock-exam-2.md)
+- [Cram sheet — every number and hard fact, one page](cram-sheet.md)
 - [Original Udemy notes](from-udemy.txt)
 
 ---

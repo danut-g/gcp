@@ -47,6 +47,7 @@ Each lesson follows the same shape so you always know where to look:
 
 ### Top-level practice
 - [Plan de studiu — 28 de zile, anti-amânare](plan-de-studiu.md) ← **începe de aici**
+- [Metoda de învățare — cum să ții minte, nu doar să citești](metoda-de-invatare.md)
 - [Exam strategy and gcloud cheat-sheet](exam-strategy.md)
 - [50-question mock exam](mock-exam.md)
 - [Mock exam 2 — 50 fresh questions](mock-exam-2.md)

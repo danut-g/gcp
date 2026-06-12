@@ -46,6 +46,7 @@ Each lesson follows the same shape so you always know where to look:
 - [4.2 Service accounts](section-4-security/4.2-service-accounts.md)
 
 ### Top-level practice
+- [Plan de studiu — 28 de zile, anti-amânare](plan-de-studiu.md) ← **începe de aici**
 - [Exam strategy and gcloud cheat-sheet](exam-strategy.md)
 - [50-question mock exam](mock-exam.md)
 - [Mock exam 2 — 50 fresh questions](mock-exam-2.md)
